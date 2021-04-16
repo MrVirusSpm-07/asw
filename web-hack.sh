@@ -20,9 +20,9 @@ echo "   \_/\_/  |_____|____/      |_| |_/_/   \_\____|_|\_\ "
 echo ":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
 echo
 echo
-echo $red"(+) " $yel"AUTHOR"  $red" : "$yel"MR VIRUS SPM     " $red(+)"
-echo $red"(+) " $yel"CNL YT"  $red" : "$yel"MR VIRUS SPM NEW " $red(+)"
-echo $red"(+) " $yel"IG    "  $red" : "$yel"mvs.x_x          " $red(+)"
+echo $red"(+) " $yel"AUTHOR"  $red" : "$yel"MR VIRUS SPM     " $red"(+)"
+echo $red"(+) " $yel"CNL YT"  $red" : "$yel"MR VIRUS SPM NEW " $red"(+)"
+echo $red"(+) " $yel"IG    "  $red" : "$yel"mvs.x_x          " $red"(+)"
 echo "----------------------------------------------------------"
 sleep 2
 echo $gr
