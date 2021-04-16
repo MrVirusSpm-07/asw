@@ -78,7 +78,7 @@ then
 fi
 if [ $hre = 09 ]
 then
-   xdh-open https://www.ac10hacks.com/cara-hack-followers-instagram-dengan-termux-android/
+   xdg-open https://www.ac10hacks.com/cara-hack-followers-instagram-dengan-termux-android/
 fi
 if [ $hre = 10 ]
 then
