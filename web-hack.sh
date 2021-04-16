@@ -8,7 +8,9 @@ red='\033[31;1m'
 wh='\033[37;1m'
 yel='\033[33;1m'
 
-clear                                                                                                                                                                            echo $bl
+clear
+xdg-open https://youtube.com/channel/UCJcJ5ZARYowKSZzgPWSxpcQ
+echo $bl
 sleep 1
 echo "__        _______ ____        _   _    _    ____ _  __ "
 echo "\ \      / / ____| __ )      | | | |  / \  / ___| |/ / "
