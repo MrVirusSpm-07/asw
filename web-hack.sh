@@ -83,6 +83,7 @@ fi
 if [ $hre = 10 ]
 then
    xdg-open https://www.ac10hacks.com/4-cara-hack-pulsa-mendapatkan-pulsa-gratis/
+fi
 if [ $hre = 11 ]
 then
    xdg-open https://www.ac10hacks.com/sadap-whatsapp-dengan-aplikasi-termux/
